@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Environmental-Compliance/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Environmental-Compliance?style=flat-square&logo=github" alt="GitHub stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Environmental-Compliance/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Environmental-Compliance?style=flat-square&logo=github" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Environmental-Compliance/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Environmental-Compliance?style=flat-square&logo=github" alt="GitHub forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Environmental-Compliance/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Environmental-Compliance?style=flat-square" alt="GitHub issues"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Environmental-Compliance/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Environmental-Compliance?style=flat-square" alt="License"/></a>
@@ -63,45 +63,45 @@ The sector is **moderately fragmented**: while large private equity-backed conso
 
 These open-source tools provide transparent, self-hostable, and developer-friendly solutions for environmental data analytics, Safety Data Sheet (SDS) management, and regulatory AI compliance monitoring. 🛠️
 
-*Sorted by GitHub Star Count (descending).* ⭐
+*Sorted by GitHub Stars_Count (descending).* ⭐
 
-- **[hashgraph/guardian](https://github.com/hashgraph/guardian)** [![GitHub stars](https://img.shields.io/github/stars/hashgraph/guardian?style=social&color=white)](https://github.com/hashgraph/guardian/stargazers)  
+- **[hashgraph/guardian](https://github.com/hashgraph/guardian)** [![GitHub_Stars](https://img.shields.io/github/stars/hashgraph/guardian?style=social&color=white)](https://github.com/hashgraph/guardian/stargazers)  
   *Digital Environmental Assets & Carbon Credit Verification Engine.*  
   Open-source platform for creating, managing, and verifying digital environmental assets (carbon credits, renewable energy certificates / RECs). Features a customizable Policy Workflow Engine utilizing Web3 ledger technology for audit-proof, transparent environmental compliance. Built with TypeScript & Node.js (Apache-2.0). 🌿
 
-- **[Carceral-Ecologies/Carceral-ECHO-data](https://github.com/Carceral-Ecologies/Carceral-ECHO-data)** [![GitHub stars](https://img.shields.io/github/stars/Carceral-Ecologies/Carceral-ECHO-data?style=social&color=white)](https://github.com/Carceral-Ecologies/Carceral-ECHO-data/stargazers)  
+- **[Carceral-Ecologies/Carceral-ECHO-data](https://github.com/Carceral-Ecologies/Carceral-ECHO-data)** [![GitHub_Stars](https://img.shields.io/github/stars/Carceral-Ecologies/Carceral-ECHO-data?style=social&color=white)](https://github.com/Carceral-Ecologies/Carceral-ECHO-data/stargazers)  
   *US Environmental Compliance & Enforcement Data Analysis.*  
   Open data pipeline and research tooling for scraping, analyzing, and assessing EPA enforcement and environmental compliance records (ECHO data) across US facilities and institutional sites. Python & Jupyter Notebooks. 📊
 
-- **[dungnotnull/eia-report-automation-agent-skill](https://github.com/dungnotnull/eia-report-automation-agent-skill)** [![GitHub stars](https://img.shields.io/github/stars/dungnotnull/eia-report-automation-agent-skill?style=social&color=white)](https://github.com/dungnotnull/eia-report-automation-agent-skill/stargazers)  
+- **[dungnotnull/eia-report-automation-agent-skill](https://github.com/dungnotnull/eia-report-automation-agent-skill)** [![GitHub_Stars](https://img.shields.io/github/stars/dungnotnull/eia-report-automation-agent-skill?style=social&color=white)](https://github.com/dungnotnull/eia-report-automation-agent-skill/stargazers)  
   *EIA Report Automation Engine & Agent Skill.*  
   Production-grade environmental compliance harness for drafting and scoring Environmental Impact Assessment (EIA) reports against IFC, IAIA, and national technical regulatory standards. 🤖
 
-- **[valpere/shopogoda](https://github.com/valpere/shopogoda)** [![GitHub stars](https://img.shields.io/github/stars/valpere/shopogoda?style=social&color=white)](https://github.com/valpere/shopogoda/stargazers)  
+- **[valpere/shopogoda](https://github.com/valpere/shopogoda)** [![GitHub_Stars](https://img.shields.io/github/stars/valpere/shopogoda?style=social&color=white)](https://github.com/valpere/shopogoda/stargazers)  
   *Environmental Monitoring & Weather Safety Alert Bot.*  
   Production-ready Go application designed for corporate weather monitoring, environmental compliance tracking, and automated safety alert broadcasts for field personnel. 🌤️
 
-- **[nawwarah-analyst/ehs-safety-intelligence](https://github.com/nawwarah-analyst/ehs-safety-intelligence)** [![GitHub stars](https://img.shields.io/github/stars/nawwarah-analyst/ehs-safety-intelligence?style=social&color=white)](https://github.com/nawwarah-analyst/ehs-safety-intelligence/stargazers)  
+- **[nawwarah-analyst/ehs-safety-intelligence](https://github.com/nawwarah-analyst/ehs-safety-intelligence)** [![GitHub_Stars](https://img.shields.io/github/stars/nawwarah-analyst/ehs-safety-intelligence?style=social&color=white)](https://github.com/nawwarah-analyst/ehs-safety-intelligence/stargazers)  
   *Enterprise EHS Analytics & Operational Safety Intelligence.*  
   Transforms incident, audit, and safety training data into actionable compliance intelligence using BigQuery and Power BI models to prevent workplace hazards. 📈
 
-- **[Pouriazandith1/ARIA-PROJECT](https://github.com/Pouriazandith1/ARIA-PROJECT)** [![GitHub stars](https://img.shields.io/github/stars/Pouriazandith1/ARIA-PROJECT?style=social&color=white)](https://github.com/Pouriazandith1/ARIA-PROJECT/stargazers)  
+- **[Pouriazandith1/ARIA-PROJECT](https://github.com/Pouriazandith1/ARIA-PROJECT)** [![GitHub_Stars](https://img.shields.io/github/stars/Pouriazandith1/ARIA-PROJECT?style=social&color=white)](https://github.com/Pouriazandith1/ARIA-PROJECT/stargazers)  
   *ARIA Enterprise Environmental & Compliance Agentic System.*  
   Agentic AI system built for automated compliance verification, regulatory documentation extraction, and environmental risk assessment. 🧠
 
-- **[benaiahbrown/ecocomply-ai](https://github.com/benaiahbrown/ecocomply-ai)** [![GitHub stars](https://img.shields.io/github/stars/benaiahbrown/ecocomply-ai?style=social&color=white)](https://github.com/benaiahbrown/ecocomply-ai/stargazers)  
+- **[benaiahbrown/ecocomply-ai](https://github.com/benaiahbrown/ecocomply-ai)** [![GitHub_Stars](https://img.shields.io/github/stars/benaiahbrown/ecocomply-ai?style=social&color=white)](https://github.com/benaiahbrown/ecocomply-ai/stargazers)  
   *AI RAG Assistant for Environmental Regulatory Gap Analysis.*  
   AI compliance assistant combining RAG (Retrieval-Augmented Generation) with real-time web search over 67 federal and state regulatory documents (~77k chunks) to flag regulatory gaps for landowners. Built with FastAPI, ChromaDB, LangChain, and Supabase. 🤖
 
-- **[didagesierich/green-compliance-ai](https://github.com/didagesierich/green-compliance-ai)** [![GitHub stars](https://img.shields.io/github/stars/didagesierich/green-compliance-ai?style=social&color=white)](https://github.com/didagesierich/green-compliance-ai/stargazers)  
+- **[didagesierich/green-compliance-ai](https://github.com/didagesierich/green-compliance-ai)** [![GitHub_Stars](https://img.shields.io/github/stars/didagesierich/green-compliance-ai?style=social&color=white)](https://github.com/didagesierich/green-compliance-ai/stargazers)  
   *Rule-based Compliance Risk Scoring & Regulatory Mapping Engine.*  
   Full-stack tool that analyzes business operations, detects hazardous material and emission compliance risks, generates 0-100 risk scores, and maps issues directly to governing regulations. Built with Flask & SQLite. ⚖️
 
-- **[TAStagg/GuardianSDS](https://github.com/TAStagg/GuardianSDS)** [![GitHub stars](https://img.shields.io/github/stars/TAStagg/GuardianSDS?style=social&color=white)](https://github.com/TAStagg/GuardianSDS/stargazers)  
+- **[TAStagg/GuardianSDS](https://github.com/TAStagg/GuardianSDS)** [![GitHub_Stars](https://img.shields.io/github/stars/TAStagg/GuardianSDS?style=social&color=white)](https://github.com/TAStagg/GuardianSDS/stargazers)  
   *AI-Native SDS Management & Chemical Safety Engine.*  
   Transforms static Safety Data Sheet (SDS) PDFs into structured JSON using AI extraction. Features offline emergency mode, GHS label generation, and automated revision monitoring. Built with Next.js 16, PostgreSQL, and Docker. 🧪
 
-- **[nadlerphd/rEHS](https://github.com/nadlerphd/rEHS)** [![GitHub stars](https://img.shields.io/github/stars/nadlerphd/rEHS?style=social&color=white)](https://github.com/nadlerphd/rEHS/stargazers)  
+- **[nadlerphd/rEHS](https://github.com/nadlerphd/rEHS)** [![GitHub_Stars](https://img.shields.io/github/stars/nadlerphd/rEHS?style=social&color=white)](https://github.com/nadlerphd/rEHS/stargazers)  
   *R Package for Environmental Health & Safety Analytics.*  
   Statistical tools and analytical routines written in R for EHS professionals performing environmental quantitative risk assessments and workplace hazard data processing. 📉
 
